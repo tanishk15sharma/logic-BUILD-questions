@@ -1,5 +1,10 @@
 # logic-BUILD-questions
-some advanced and intermediate logic-BUILD questions solved
+Practice makes programming perfect.
+
+
+some advance and intermediate logic-BUILD questions solved using JAVASCRIPT. you can look over the files practiced map,loops,objects,operators and etc.
+
+some mock questions solved⬇️
 
 QUESTIONS of 3 mocks :
 
